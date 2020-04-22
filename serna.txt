@@ -1,4 +1,9 @@
+01
 Cambio previo
+<<<<<<< HEAD
 Holis tag
 hola alred
 02
+=======
+Holis tag 
+>>>>>>> serna
